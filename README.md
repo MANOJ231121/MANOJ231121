@@ -1,4 +1,7 @@
-## Hi there 👋
+##💫 About Me:
+Hi, I’m Manoj
+
+I’m a Computer Science student and developer who enjoys coding, solving problems, and building applications. I’m particularly interested in backend development, full-stack technologies, and exploring new tools
 
 
 ## 🌐 Socials:
