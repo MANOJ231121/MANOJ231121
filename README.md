@@ -9,7 +9,7 @@ I enjoy learning by building, experimenting with different technologies, and imp
 
 ## Tools & Tech 🛠️
 
-* C++, Java, Python, JavaScript
+* C++, Python, JavaScript
 * React, HTML, CSS, Tailwind CSS
 * Node.js, Spring Boot
 * MongoDB, MySQL
